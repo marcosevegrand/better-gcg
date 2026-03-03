@@ -1,4 +1,4 @@
-# pretty-me
+# Better Github Contribution Graph
 
 Generate a GitHub-dark themed SVG card with:
 - Repos count
